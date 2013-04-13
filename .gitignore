@@ -1,0 +1,4 @@
+*.conf
+boost-wc
+*.o
+*.pro.user
